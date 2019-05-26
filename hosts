@@ -1,0 +1,24 @@
+127.0.0.1	localhost
+::1	localhost ip6-localhost ip6-loopback
+fe00::0	ip6-localnet
+ff00::0	ip6-mcastprefix
+ff02::1	ip6-allnodes
+ff02::2	ip6-allrouters
+172.18.0.1      my
+172.18.0.2	hadoop-1
+172.18.0.3      hadoop-2
+172.18.0.4      hadoop-3
+172.18.0.5      hadoop-4
+172.18.0.6      hadoop-5
+172.18.0.9      zk-1
+172.18.0.10     zk-2
+172.18.0.11     zk-3
+172.18.0.13     hbase-1
+172.18.0.14     hbase-2
+172.18.0.15     hbase-3
+172.18.0.16     spark-1
+172.18.0.17     spark-2
+172.18.0.18     spark-3
+172.18.0.19     kafka-1
+172.18.0.20     kafka-2
+172.18.0.21     kafka-3
